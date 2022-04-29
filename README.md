@@ -4,5 +4,5 @@
   Mostrar cada dia de treino para o cliente, e mostrar qual exercicio será feito no dia.
   
   ## &nbsp;Conteúdo
-  Usando linguagem e HTML5 e CSS3, fazendo um site básico de treino para clientes de academia.
+  Usando linguagem em HTML5 e CSS3, fazendo um site básico de treino para clientes de academia.
   
